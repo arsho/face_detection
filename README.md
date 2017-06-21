@@ -27,13 +27,13 @@ The test images should be in input_test folder.
 ![alt ch6.jpg](https://raw.githubusercontent.com/arsho/face_detection/master/input_test/ch6.jpg)
 
 ### Output Images
-The output consists of the gray scale image, LBP representation image and LBP histogram.
+The output images consist of human and cat faces marked by color boxes.
 
-![alt ch2.jpg](https://raw.githubusercontent.com/arsho/face_detection/master/output_test/ch2.jpg)
+![alt ch2.jpg](https://raw.githubusercontent.com/arsho/face_detection/master/output_test/out_ch2.jpg)
 
-![alt ch3.jpg](https://raw.githubusercontent.com/arsho/face_detection/master/output_test/ch3.jpg)
+![alt ch3.jpg](https://raw.githubusercontent.com/arsho/face_detection/master/output_test/out_ch3.jpg)
 
-![alt ch6.jpg](https://raw.githubusercontent.com/arsho/face_detection/master/output_test/ch6.jpg)
+![alt ch6.jpg](https://raw.githubusercontent.com/arsho/face_detection/master/output_test/out_ch6.jpg)
 
 
 ### References
